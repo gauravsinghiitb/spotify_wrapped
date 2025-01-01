@@ -19,10 +19,9 @@
 
 - the spotify wrapped designs templates were taken from figma opensource community - https://www.figma.com/community/file/1446229242828191725/spotify-wrapped-2024-11-editable-designs
 The designs were edited into workable empty templates.
-
-### Python libraries used for project - pandas , PIL , spotipy
-### API used - Spotify API 
-### Data Used - It was my streaming data from DEC 2023 to DEC 2024, one can access spotify streaiming data from access spotify data option in settings. Used data consisted of track name, track artist, track ending date and time , track played duration in milliseconds
+#### Python libraries used for project - pandas , PIL , spotipy
+#### API used - Spotify API 
+#### Data Used - It was my streaming data from Dec 2023 to Dec 2024, one can access spotify streaming data from access spotify data option in settings. Used data consisted of track name, track artist, track ending date and time , track played duration in milliseconds
 
 
 
