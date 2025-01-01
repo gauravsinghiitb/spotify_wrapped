@@ -1,6 +1,7 @@
 # spotify_wrapped project
-![top_5_songs_image](https://github.com/user-attachments/assets/01dce739-088e-4431-9c30-5222ff63a1a3)
-### My Spotify streaming data analysis of year 2024
+![collage (1)](https://github.com/user-attachments/assets/3eda4f33-2009-4209-b7a7-def1943305dc)
+
+## My Spotify streaming data analysis of year 2024
 - you streamed for 36130 minutes this year
 - you have listened to 1113 different artists
 - Your top artist of the year was Karan Aujla with a total of 1814 minutes of streaming
