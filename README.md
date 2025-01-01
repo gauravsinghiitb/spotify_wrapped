@@ -1,6 +1,6 @@
 # spotify_wrapped
 ### My Spotify streaming data analysis of year 2024
-you streamed for 36130 minutes this year
+- you streamed for 36130 minutes this year
 you have listened to 1113 different artists
 Your top artist of the year was Karan Aujla with a total of 1814 minutes of streaming
 Your top song by time of the year was Aaoge Tum Kabhi with a total of 635 minutes of streaming
