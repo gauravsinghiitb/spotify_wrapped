@@ -1,4 +1,5 @@
-# spotify_wrapped
+# spotify_wrapped project
+![top_5_songs_image](https://github.com/user-attachments/assets/01dce739-088e-4431-9c30-5222ff63a1a3)
 ### My Spotify streaming data analysis of year 2024
 - you streamed for 36130 minutes this year
 - you have listened to 1113 different artists
@@ -16,6 +17,8 @@
 ![image](https://github.com/user-attachments/assets/1c79f1af-a3fb-4a12-8378-10ba7386a201)
 ![image](https://github.com/user-attachments/assets/253935e8-7cf4-42cd-947a-8adff7021a6c)
 ![image](https://github.com/user-attachments/assets/0ad2613f-36b9-4004-9ee0-f7167ecca085)
+
+
 
 
 
