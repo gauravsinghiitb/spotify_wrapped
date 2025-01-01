@@ -17,12 +17,12 @@
 
 ![collage (3)](https://github.com/user-attachments/assets/3a560596-fec1-49e8-9535-b494ab4b5df8)
 
-the spotify wrapped designs templates were taken from figma opensource community - [https://www.figma.com/community/file/1446229242828191725/spotify-wrapped-2024-11-editable-designs]
+- the spotify wrapped designs templates were taken from figma opensource community - https://www.figma.com/community/file/1446229242828191725/spotify-wrapped-2024-11-editable-designs
 The designs were edited into workable empty templates.
 
-Python libraries used for project - pandas , PIL , spotipy
-API used - Spotify API 
-Data Used - It was my streaming data from DEC 2023 to DEC 2024, one can access spotify streaiming data from access spotify data option in settings. Used data consisted of track name, track artist, track ending date and time , track played duration in milliseconds
+### Python libraries used for project - pandas , PIL , spotipy
+### API used - Spotify API 
+### Data Used - It was my streaming data from DEC 2023 to DEC 2024, one can access spotify streaiming data from access spotify data option in settings. Used data consisted of track name, track artist, track ending date and time , track played duration in milliseconds
 
 
 
